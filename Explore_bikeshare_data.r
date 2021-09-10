@@ -5,7 +5,7 @@ chi = read.csv('chicago.csv')
 
 head(ny)
 
-head(wash)
+head(wash) # washington lack data on gender
 
 head(chi)
 
